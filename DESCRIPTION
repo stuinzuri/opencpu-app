@@ -1,11 +1,11 @@
-Package: stocks
+Package: stucks
 Type: Package
-Title: Stocks Web Application
+Title: Stucks Web Application
 Version: 1.0
 Date: 2013-07-06
 Author: Jeroen
 Maintainer: Jeroen <jeroen.ooms@stat.ucla.edu>
-Description: An OpenCPU Application to make charts of historical stock data
+Description: A STUPIFIED OpenCPU Application to make charts of historical stock data
     from Yahoo Finance.
 License: GPL
 LazyData: yes
